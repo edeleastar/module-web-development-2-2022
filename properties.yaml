@@ -1,7 +1,7 @@
 youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyBGowQ4W5vu67WR7YiPnsI6
 parent         : course/edeleastar-portfolio
 credits        : Eamonn de Leastar, WIT Computing
-
+llm            : 2
 ignorepin      : 2125
 icon :
   type: file-icons:config-js
